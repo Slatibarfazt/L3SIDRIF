@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  <html>
+<head>
+  <meta charset="utf-8">
+  <style href="">
+    <title> De voir pause pédagogique </title>
+  <h1> Essai de construction de menu </h1>
+</head>
+
+<body>
+    <nav>
+      <ul>
+        <li><a> Site 1 </a></li>
+        <li><a> Site2 </a></li>
+        <li><a> Site3 </a></li>
+      </ul>
